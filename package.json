@@ -1,0 +1,22 @@
+{
+  "name": "peak-second-npm",
+  "version": "1.0.0",
+  "description": "peak second npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peakcary/peak-second-npm.git"
+  },
+  "keywords": [
+    "peak"
+  ],
+  "author": "peak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peakcary/peak-second-npm/issues"
+  },
+  "homepage": "https://github.com/peakcary/peak-second-npm#readme"
+}
