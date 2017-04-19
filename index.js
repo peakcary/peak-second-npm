@@ -6,6 +6,10 @@
 
 'use strict';
 
-module.exports = function(what){
-    return what;
-};
+// module.exports = function(what){
+//     return what;
+// };
+
+exports.Hello = function ( name ) {
+    console.log( "Hello " + name );
+}
